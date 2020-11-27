@@ -1,0 +1,1 @@
+This is a REST API  developed using python-django frame work to create and view records in table Book (sqllite3)
